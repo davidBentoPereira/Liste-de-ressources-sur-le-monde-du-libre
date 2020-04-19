@@ -1,5 +1,5 @@
 # Ressources sur le logiciel libre, la protection des données personnelles et l'écologie du numérique
-[Voir ce document en version HTML](./index.html)
+[Voir ce document en version HTML](https://davidbentopereira.github.io/numeric_guide/)
 
 ## Présentation
 Ce fichier est tiré du travail de recherche réalisé par *Pauline Boux* en février 2020 et regroupé dans ce [Framapad](https://pad.chapril.org/p/Cin%C3%A9_d%C3%A9bat). Celui-ci a pour objectif de fournir un maximum de sources traitant du monde du logiciel libre et de la cybersécurité. Vous y trouverez des liens vers des articles, des films, des jeux, etc…
