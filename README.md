@@ -4,7 +4,13 @@
 ## Présentation
 Ce fichier est tiré du travail de recherche réalisé par *Pauline Boux* en février 2020 et regroupé dans ce [Framapad](https://pad.chapril.org/p/Cin%C3%A9_d%C3%A9bat). Celui-ci a pour objectif de fournir un maximum de sources traitant du monde du logiciel libre et de la cybersécurité. Vous y trouverez des liens vers des articles, des films, des jeux, etc…
 
-La ressource que vous lisez actuellement est simplement une reprise de son travail visant à en améliorer la présentation.
+La ressource que vous lisez actuellement est simplement une reprise de son travail visant à 
+- Améliorer la présentation
+- Trier, ordonner, catégoriser les sources
+- Supprimer les sources peu pertinentes
+- Ajouter des sources
+
+- - - 
 
 ## Sources
 
