@@ -1,4 +1,5 @@
 # Ressources sur le logiciel libre, la protection des données personnelles et l'écologie du numérique
+[Voir ce document en version HTML](./index.html)
 
 ## Présentation
 Ce fichier est tiré du travail de recherche réalisé par *Pauline Boux* en février 2020 et regroupé dans ce [Framapad](https://pad.chapril.org/p/Cin%C3%A9_d%C3%A9bat). Celui-ci a pour objectif de fournir un maximum de sources traitant du monde du logiciel libre et de la cybersécurité. Vous y trouverez des liens vers des articles, des films, des jeux, etc…
@@ -10,7 +11,7 @@ La ressource que vous lisez actuellement est simplement une reprise de son trava
 ### Sites web :
 - [x] [Découverte des logiciels libres (Libre Expo.org)](https://www.libreexpo.org)
 - [x] [Guide de protection numérique](https://nothing2hide.org/fr/guide-de-protection-numerique/)
-- [x]  [Apps utiles pour protéger ses données](https://guardianproject.info/9)[9](https://guardianproject.info/9)
+- [x]  [Apps utiles pour protéger ses données](https://guardianproject.info/9)
 - [x] [Explication d'outils numérique par la CNIL](https://www.cnil.fr/fr/comment-ca-marche)
 - [x] [Blog sur l'écologie & l'informatique](https://www.greenit.fr/themes/)
 
