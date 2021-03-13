@@ -16,6 +16,33 @@ La ressource que vous lisez actuellement est simplement une reprise de son trava
 
 - - -
 
+##### Amélioration
+- [ ] Traduire en anglais pour le rendre accessible au plus grand nombre
+
+##### Sources à trier
+- [ ] https://scinfolex.com/2020/04/22/low-tech-logiciels-libres-et-open-source-quelles-synergies-a-developper/
+- [ ] https://www.coredem.info/IMG/pdf/passerelle21-online-final.pdf
+- [ ] [Framagit](https://framagit.org/public/projects)
+- [ ] [Boop! A simple "low-tech" static site generator, for fun.](https://framagit.org/marienfressinaud/boop)
+- [ ] https://www.blog-libre.org/2020/05/01/messagerie-email-ethique-comment-preserver-sa-vie-privee-en-2020-et-celle-de-son-entourage/
+- [ ] https://www.pofilo.fr/post/20200428-gestionnaire-mots-de-passe/
+- [ ] https://serveur410.com/viens-on-change-internet-une-antenne-a-la-fois/
+- [ ] 
+
+
+##### Outils Libres, respectueux de la vie privé, open source (objectif déggogelisation)
+
+Voici une liste non exhaustive et amené à évoluer des outils open source, respectueux de la vie privée :
+- [x] [Zettlr : Editeur de texte en format Markdown](https://www.zettlr.com/)
+- [x] [Standard Notes : CrossPlateform App to take encrypted notes](https://app.standardnotes.org/)
+- [ ] [Bitwarden : Gestionnaire de mot de passe CrossPlateform](https://vault.bitwarden.com/)
+- [ ] [Framsoft](https://framasoft.org/fr/)
+- [ ] [Flus : Open Source (payant) RSS Agregator](https://flus.io/i/)
+- [ ] 
+
+
+- - - 
+
 ## Sommaire
 
 - Sites web
@@ -61,11 +88,19 @@ La ressource que vous lisez actuellement est simplement une reprise de son trava
 
 ### Séries
 - [x] [Halt and Catch Fire](http://www.allocine.fr/series/ficheserie_gen_cserie=11662.html) - [Lire la critique](https://www.ecranlarge.com/series/dossier/962463-halt-and-catch-fire-cette-fabuleuse-serie-qui-passe-inapercue)
+- [ ] Mr Robot
 
 
 ### Musique
 - [x] [Chanson Plus Bifluorée - L'informatique](https://youtu.be/QYWvyRCNqMI)
 - [x] [Daft Hands - Technologic](https://youtu.be/zHoj-CpMyxg)
+
+
+### Livres
+- [ ] [Edward Snowden - Mémoire Vive](https://www.seuil.com/ouvrage/memoires-vives-edward-snowden/9782021441048)
+- [ ] George Orwell - 1984
+- [ ] John Brunner - Sur l'onde de choc
+- [ ] Marc Dugain - Transparence
 
 
 ### Vidéos
@@ -177,16 +212,16 @@ La ressource que vous lisez actuellement est simplement une reprise de son trava
 - [ ] [https://www.ritimo.org/Numerique-liberons-nos-pratiques-8156](https://www.ritimo.org/Numerique-liberons-nos-pratiques-8156)
 
 ### Personnes cités
-- [ ] [https://fr.wikipedia.org/wiki/Ada_Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace)
-- [ ] [https://fr.wikipedia.org/wiki/Djon_Atanasov](https://fr.wikipedia.org/wiki/Djon_Atanasov)
-- [ ] [https://fr.wikipedia.org/wiki/Julian_Assange](https://fr.wikipedia.org/wiki/Julian_Assange)
-- [ ] [https://www.europe1.fr/dossiers/edward-snowden](https://www.europe1.fr/dossiers/edward-snowden)
-- [ ] [https://fr.wikipedia.org/wiki/Richard_Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman)
+- [ ] [Wikipédia Ada Lovelace](https://fr.wikipedia.org/wiki/Ada_Lovelace)
+- [ ] [Wikipédia Djon Atanasov](https://fr.wikipedia.org/wiki/Djon_Atanasov)
+- [ ] [Wikipédia Julian Assange](https://fr.wikipedia.org/wiki/Julian_Assange)
+- [ ] [Edward Snowden](https://www.europe1.fr/dossiers/edward-snowden)
+- [ ] [Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman)
  
 ### Matériel
-- [ ] [https://www.greenit.fr/themes/](https://www.greenit.fr/themes/)
-- [ ] [https://fr.wikipedia.org/wiki/Mat%C3%A9riel_libre](https://fr.wikipedia.org/wiki/Mat%C3%A9riel_libre)
-- [ ] [https://www.gnu.org/philosophy/free-hardware-designs.fr.html](https://www.gnu.org/philosophy/free-hardware-designs.fr.html)
+- [ ] [Green IT](https://www.greenit.fr/themes/)
+- [ ] [Wikipédia Matériel Libre](https://fr.wikipedia.org/wiki/Mat%C3%A9riel_libre)
+- [ ] [Free hardware design](https://www.gnu.org/philosophy/free-hardware-designs.fr.html)
 - [ ] [https://doc.ubuntu-fr.org/materiel_libre](https://doc.ubuntu-fr.org/materiel_libre)
 
 ### Jeux
@@ -197,3 +232,9 @@ La ressource que vous lisez actuellement est simplement une reprise de son trava
 
 ### Alternatives
 - [ ] [Pure OS : User friendly, secure and freedom respecting OS for your daily usage](https://pureos.net/) 
+
+### Veille Technologique
+
+
+Améliorations :
+Catégoriser les ressources par "Politique / Environnement, etc...
